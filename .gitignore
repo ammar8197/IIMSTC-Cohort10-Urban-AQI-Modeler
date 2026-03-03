@@ -1,0 +1,7 @@
+data/raw/
+data/clean/
+.venv/
+venv/
+__pycache__/
+*.pyc
+notebook/exampleusecase.ipynb

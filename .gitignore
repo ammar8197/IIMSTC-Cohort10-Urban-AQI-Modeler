@@ -6,6 +6,7 @@ env/
 # Data files
 data/raw/
 data/clean/
+
 *.csv
 
 # Saved models (too large for GitHub)
@@ -39,3 +40,4 @@ notebook/exampleusecase.ipynb
 *.egg-info/
 dist/
 build/
+

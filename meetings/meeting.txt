@@ -1,0 +1,22 @@
+Meeting Minutes
+Date: 26-02-2026
+Duration: 1 Hour
+Platform: Google Meet
+Meeting Lead: Kashish
+
+Agenda:
+• Project flow clarification
+• Team role discussion
+• Debugging preprocessing steps
+
+Discussion Summary:
+The overall system architecture was discussed, covering raw data ingestion, preprocessing, feature engineering, train-test split (80:20), and model comparison (Linear Regression, Random Forest, XGBoost).
+
+The Data Engineering team discussed cleaning inconsistencies and extracting temporal features. The Model team explained performance metrics (RMSE, MAE, R²).
+
+Branch-wise workflow and proper GitHub documentation process were clarified.
+
+Tasks:
+• Finalize preprocessing corrections.
+• Compare regression models.
+• Upload daily documentation.

@@ -1,7 +1,43 @@
-data/raw/
-data/clean/
+# Virtual environment
 .venv/
 venv/
+env/
+
+# Data files
+data/raw/
+data/clean/
+
+*.csv
+
+# Saved models (too large for GitHub)
+models/*.pkl
+models/*.joblib
+models/*.h5
+*.pkl
+*.joblib
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Example notebook
 notebook/exampleusecase.ipynb
+
+# Distribution
+*.egg-info/
+dist/
+build/
+

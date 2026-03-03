@@ -1,0 +1,20 @@
+Meeting Minutes
+Date: 27-02-2026
+Duration: 1 Hour
+Platform: Google Meet
+Meeting Lead: Kashish
+
+Agenda:
+• Model performance comparison
+• Debugging model outputs
+• Feature importance analysis
+
+Discussion Summary:
+The team reviewed evaluation metrics of the three models. It was observed that XGBoost showed superior performance with highest R² and lowest RMSE and MAE compared to Random Forest and Linear Regression.
+
+Feature importance results were discussed, highlighting PM10 and CO as dominant predictors. Minor debugging issues related to feature scaling and input alignment were resolved.
+
+Tasks:
+• Select final model (XGBoost).
+• Prepare visualization plots.
+• Continue documentation updates.

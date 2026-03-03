@@ -1,0 +1,22 @@
+Meeting Minutes
+Date: 28-02-2026
+Duration: 1 Hour
+Platform: Google Meet
+Meeting Lead: Kashish
+
+Agenda:
+• Streamlit deployment discussion
+• Real-time prediction interface
+• SDG 11 alignment
+
+Discussion Summary:
+The team discussed integrating the optimized XGBoost model into a local Streamlit web application. The interface design and input parameter fields were reviewed.
+
+We also discussed SDG 11 (Sustainable Cities and Communities) and how the project supports proactive public health protection and data-driven urban planning.
+
+Deployment testing and UI improvements were discussed.
+
+Tasks:
+• Finalize Streamlit interface.
+• Capture screenshots for documentation.
+• Prepare report draft sections.

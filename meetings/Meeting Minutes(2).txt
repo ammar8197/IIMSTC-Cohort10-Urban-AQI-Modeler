@@ -1,0 +1,22 @@
+Meeting Minutes
+Date: 02-03-2026
+Duration: 1 Hour
+Platform: Google Meet
+Meeting Lead: Kashish
+
+Agenda:
+• Final performance review
+• Report compilation discussion
+• Submission planning
+
+Discussion Summary:
+The final model performance was reviewed (XGBoost achieving highest R² with lowest error values). The team confirmed selection of XGBoost for deployment.
+
+Report sections including Introduction, Methodology, Model Development, Results, SDG 11 Impact, and Conclusion were finalized.
+
+Final GitHub updates and submission deadlines were discussed.
+
+Tasks:
+• Complete final report compilation.
+• Ensure all meeting logs are uploaded.
+• Verify GitHub commit records.
